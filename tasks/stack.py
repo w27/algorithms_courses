@@ -9,6 +9,7 @@ def push(data: Any) -> None:
     Add element to stack
     :param data: element to be pushed
     """
+    print(data)
 
 
 def pop() -> Any:
@@ -16,6 +17,7 @@ def pop() -> Any:
     Pop element from the stack. If not elements return None.
     :return: popped element
     """
+    pass
 
 
 def peek(index: int) -> Any:
@@ -24,9 +26,11 @@ def peek(index: int) -> Any:
     :param index: index of element
     :return: peeked element
     """
+    print(index)
 
 
 def clear() -> None:
     """
     Clear stack
     """
+    pass
