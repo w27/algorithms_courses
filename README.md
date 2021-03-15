@@ -1,4 +1,5 @@
-#Simple algorithms for classes
+# Simple algorithms for classes
+
 <ul>
     <li>stack</li>
     <li>queue</li>
@@ -9,5 +10,5 @@
     <li>bubble sort</li>
     <li>quick sort</li>
 </ul>
-"Use this template" 
- Collaborators
+
+"Use this template" and add "Collaborators" in "Settings"->"Manage access"
