@@ -1,6 +1,3 @@
-"""
-Stack
-"""
 from typing import Any
 
 

@@ -1,8 +1,3 @@
-"""
-Linear search
-"""
-
-
 def min_search(my_list: list) -> int:
     """
     Find minimal element in list
