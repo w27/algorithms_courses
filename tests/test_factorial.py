@@ -21,5 +21,4 @@
 #
 # def test_factorial_recursive_bad():
 #     with pytest.raises(ValueError):
-#         factorial_recursive(-123)
-#         "Need reise ValueError"
+#         factorial_recursive(-123), "Need reise ValueError"

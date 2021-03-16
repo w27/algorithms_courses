@@ -9,8 +9,7 @@
 #
 # def test_factorial_iterative_bad():
 #     with pytest.raises(ValueError):
-#         fibonacci_iterative(-123)
-#         "Need reise ValueError"
+#         fibonacci_iterative(-123), "Need reise ValueError"
 #
 #
 # @pytest.mark.parametrize("value, rez", [(8, 21), (9, 34), (1, 1), (2, 1)])
