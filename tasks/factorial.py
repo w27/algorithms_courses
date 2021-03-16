@@ -5,7 +5,7 @@ def factorial_recursive(n: int) -> int:
     :return: factorial of n
     """
     print(n)
-    return 0
+    return 1
 
 
 def factorial_iterative(n: int) -> int:
@@ -16,4 +16,4 @@ def factorial_iterative(n: int) -> int:
     :return: factorial of n
     """
     print(n)
-    return 0
+    return 1

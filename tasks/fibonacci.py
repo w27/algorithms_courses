@@ -5,7 +5,7 @@ def fibonacci_recursive(n: int) -> int:
     :return: Fibonacci number
     """
     print(n)
-    return -1
+    return 1
 
 
 def fibonacci_iterative(n: int) -> int:
@@ -15,4 +15,4 @@ def fibonacci_iterative(n: int) -> int:
     :return: Fibonacci number
     """
     print(n)
-    return -1
+    return 1
