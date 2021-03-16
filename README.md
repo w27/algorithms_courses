@@ -13,4 +13,6 @@
 
 "Use this template" and add "Collaborators" in "Settings"->"Manage access"
 
-Uncomment the code of test  for the function you want to test.
+Comment the code of test  for the function you don't want to test.
+
+Use "pytest --cov=tasks --cov-report term-missing  tests" for check coverage
