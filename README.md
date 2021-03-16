@@ -12,3 +12,5 @@
 </ul>
 
 "Use this template" and add "Collaborators" in "Settings"->"Manage access"
+
+Uncomment the code of test  for the function you want to test.

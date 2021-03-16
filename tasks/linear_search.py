@@ -1,7 +1,7 @@
 from typing import Optional
 
 
-def min_search(my_list: list) -> int:
+def linear_search(my_list: list) -> Optional[int, None]:
     """
     Find minimal element in list
     :param my_list: List containing numbers
